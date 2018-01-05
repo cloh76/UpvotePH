@@ -1,3 +1,6 @@
+UpvotePH uses the Steem-bot package created by @p0o which you can find at the following link: https://github.com/p0o/steem-bot
+
+
 # SteemBot
 SteemBot provides real-time automation on top of [Steem blockchain](https://steem.io/) with a very simple API. You can use it to quickly bootstrap an automated task with Steem without having much understanding about the node's mechanism and tricky API.
 
